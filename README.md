@@ -1,1 +1,1 @@
-# flight-pronostics-ui
+# iExec Open Bounty: "Late again" app using Decentralized Oracles 
