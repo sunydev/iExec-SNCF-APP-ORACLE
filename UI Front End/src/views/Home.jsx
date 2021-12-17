@@ -344,7 +344,7 @@ export default function Home({
                     style={{ width: "300px" }}
                     onClick={handleUpdateStatus} 
                   >
-                    Click on Update Status to Claim a prize
+                    Click to Update Status 
                   </Button>}
                 </div>
                 <div
