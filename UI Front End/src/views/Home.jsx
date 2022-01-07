@@ -55,12 +55,12 @@ export default function Home({
   const AmountForAsPlanned = useContractReader(
     contracts,
     "TrainBetting",
-    "getAmountBetsOnAsPlanned"
+    "getAmountBetsOnTime"
   );
   const AmountForCanceled = useContractReader(
     contracts,
     "TrainBetting",
-    "getAmountBetsOnCanceled"
+    "getAmountBetsOnLate"
   );
   
   const DepartureTimeContract = useContractReader(
